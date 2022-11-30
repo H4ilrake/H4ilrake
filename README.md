@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @H4ilrake
 - 👀 I’m interested in game design and lvl design, slightly programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++ and lua
 - 📫 How to reach me: Hailrake#8904 - Discord, yaroslavyaroshenko818@gmail.com
 
 <!---
